@@ -1,3 +1,6 @@
+
+|[Network Visualization](#network-visualization)|[Network Operations Count](#network-operations-count)
+
 # Tools-for-Deep-Learning
 
 A collections of tools for deep learning. 
@@ -16,3 +19,12 @@ A collections of tools for deep learning.
 | [Keras](https://transcranial.github.io/keras-js/#/inception-v3) | https://transcranial.github.io/keras-js/#/inception-v3 |
 | [Conx](https://conx.readthedocs.io/en/latest/index.html) | https://conx.readthedocs.io/en/latest/index.html |
 
+## Network Operations Count
+
+Some repos can help count FLOPs, MACs, etc. 
+
+|Name|URL|
+|----|---|
+| [thop](https://github.com/Lyken17/pytorch-OpCounter) | https://github.com/Lyken17/pytorch-OpCounter |
+| [ptflops](https://github.com/sovrasov/flops-counter.pytorch) | https://github.com/sovrasov/flops-counter.pytorch |
+| [torchstat](https://github.com/Swall0w/torchstat) | https://github.com/Swall0w/torchstat |
