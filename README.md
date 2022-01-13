@@ -5,7 +5,7 @@ A collections of tools for deep learning.
 
 ## Table of Contents
 
-|[Network Visualization](#network-visualization)|[Network Operations Count](#network-operations-count)|
+|[Home](https://yiqunchen1999.github.io/Tools-for-Deep-Learning/)|[Network Visualization](#network-visualization)|[Network Operations Count](#network-operations-count)|
 
 ## Network Visualization
 
