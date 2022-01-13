@@ -5,7 +5,7 @@ A collections of tools for deep learning.
 
 ## Table of Contents
 
-|[Home](https://yiqunchen1999.github.io/Tools-for-Deep-Learning/)|[Network Visualization](#network-visualization)|[Network Operations Count](#network-operations-count)|
+|[Home](https://yiqunchen1999.github.io/Tools-for-Deep-Learning/)|[Network Visualization](#network-visualization)|[Network Operations Count](#network-operations-count)|[Paper Writing](#paper-writing)|
 
 ## Network Visualization
 
@@ -31,7 +31,7 @@ Some repos can help count FLOPs, MACs, etc.
 | [ptflops](https://github.com/sovrasov/flops-counter.pytorch) | https://github.com/sovrasov/flops-counter.pytorch |
 | [torchstat](https://github.com/Swall0w/torchstat) | https://github.com/Swall0w/torchstat |
 
-## Paper Writting
+## Paper Writing
 
 | Name | URL |
 | ---- | --- |
