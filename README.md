@@ -30,3 +30,9 @@ Some repos can help count FLOPs, MACs, etc.
 | [thop](https://github.com/Lyken17/pytorch-OpCounter) | https://github.com/Lyken17/pytorch-OpCounter |
 | [ptflops](https://github.com/sovrasov/flops-counter.pytorch) | https://github.com/sovrasov/flops-counter.pytorch |
 | [torchstat](https://github.com/Swall0w/torchstat) | https://github.com/Swall0w/torchstat |
+
+## Paper Writting
+
+| Name | URL |
+| ---- | --- |
+| [Rebuttal](https://zhuanlan.zhihu.com/p/104298923) | https://zhuanlan.zhihu.com/p/104298923 |
