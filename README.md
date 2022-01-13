@@ -36,3 +36,10 @@ Some repos can help count FLOPs, MACs, etc.
 | Name | URL |
 | ---- | --- |
 | [Rebuttal](https://zhuanlan.zhihu.com/p/104298923) | https://zhuanlan.zhihu.com/p/104298923 |
+| [刘洋](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf) | http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf |
+| [邱锡鹏](https://xpqiu.github.io/slides/20181019-PaperWriting.pdf) | https://xpqiu.github.io/slides/20181019-PaperWriting.pdf |
+| [刘一佳](http://yjliu.net/cv/res/2018-08-19-nlpcc-sws.compressed.pdf) | http://yjliu.net/cv/res/2018-08-19-nlpcc-sws.compressed.pdf |
+| [Henning Schulzrinne](http://www.cs.columbia.edu/~hgs/etc/writing.html) | http://www.cs.columbia.edu/~hgs/etc/writing.html |
+| [Whitesides](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.200400767) | https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.200400767 |
+| [Nature Portfolio](https://zhuanlan.zhihu.com/p/158574876) | https://zhuanlan.zhihu.com/p/158574876 |
+| [王益](https://zhuanlan.zhihu.com/p/157243326) | https://zhuanlan.zhihu.com/p/157243326 |
