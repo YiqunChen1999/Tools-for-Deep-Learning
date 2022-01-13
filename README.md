@@ -5,7 +5,7 @@ A collections of tools for deep learning.
 
 ## Table of Contents
 
-|[Home](https://yiqunchen1999.github.io/Tools-for-Deep-Learning/)|[Network Visualization](#network-visualization)|[Network Operations Count](#network-operations-count)|[Paper Writing](#paper-writing)|
+| [Home](https://yiqunchen1999.github.io/Tools-for-Deep-Learning/) | [Network Visualization](#network-visualization) | [Network Operations Count](#network-operations-count) | [paper Writing](#paper-writing)| [Tools for Annotation](#tools-for-annotation) |
 
 ## Network Visualization
 
@@ -43,3 +43,11 @@ Some repos can help count FLOPs, MACs, etc.
 | [Whitesides](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.200400767) | https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.200400767 |
 | [Nature Portfolio](https://zhuanlan.zhihu.com/p/158574876) | https://zhuanlan.zhihu.com/p/158574876 |
 | [王益](https://zhuanlan.zhihu.com/p/157243326) | https://zhuanlan.zhihu.com/p/157243326 |
+
+## Tools for Annotation
+
+| Name | URL |
+| ---- | --- |
+| [labelme](https://github.com/wkentaro/labelme) | https://github.com/wkentaro/labelme |
+| [labelimg](https://github.com/tzutalin/labelImg) | https://github.com/tzutalin/labelImg |
+| [CVAT](https://github.com/openvinotoolkit/cvat) | https://github.com/openvinotoolkit/cvat |
