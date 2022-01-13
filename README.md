@@ -2,7 +2,7 @@
 
 A collections of tools for deep learning. 
 
-## Network Visualization [#network visualization]
+## Network Visualization (#network visualization)
 
 |Name|URL|
 |----|---|
