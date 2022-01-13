@@ -1,9 +1,11 @@
 
-|[Network Visualization](#network-visualization)|[Network Operations Count](#network-operations-count)
-
 # Tools-for-Deep-Learning
 
 A collections of tools for deep learning. 
+
+## Table of Contents
+
+|[Network Visualization](#network-visualization)|[Network Operations Count](#network-operations-count)|
 
 ## Network Visualization
 
