@@ -9,9 +9,21 @@ A collections of tools for deep learning.
 
 ## Learning Deep Learning
 
-| Name | URL |
-| ---- | --- |
-| [For Beginner](https://github.com/orico/www.mlcompendium.com/) | https://github.com/orico/www.mlcompendium.com/ |
+| Name | URL | Note |
+| ---- | --- | ---- |
+| Google Research | https://ai.googleblog.com | Blog |
+| OpenAI | https://www.openai.com | Blog |
+| Facebook | https://research.fb.com/category/machine-learning/ |
+| DeepMind | https://deepmind.com | Blog |
+| [For Beginner](https://github.com/orico/www.mlcompendium.com/) | https://github.com/orico/www.mlcompendium.com/ | None |
+| 苏剑林 | https://www.zhihu.com/people/su-jian-lin-22 | Blog |
+| 张俊林 | https://www.zhihu.com/people/zhang-jun-lin-76 | Blog |
+| 王乃岩 | https://www.zhihu.com/people/naiyan-wang | Blog |
+| mileistone | https://www.zhihu.com/people/mileistone | Blog |
+| 陀飞轮 | https://www.zhihu.com/people/chen-jia-yu-65-36 | Blog |
+| 科技猛兽 | https://www.zhihu.com/people/wang-jia-hao-53-3 | Blog |
+| Happy | https://www.zhihu.com/people/wsp_tcl | Blog |
+| Lil | https://lilianweng.github.io/lil-log/ | Blog |
 
 ## Network Visualization
 
