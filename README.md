@@ -7,6 +7,12 @@ A collections of tools for deep learning.
 
 | [Home](https://yiqunchen1999.github.io/Tools-for-Deep-Learning/) | [Network Visualization](#network-visualization) | [Network Operations Count](#network-operations-count) | [paper Writing](#paper-writing) | [Drawing in Paper](#drawing-in-paper) | [Tools for Annotation](#tools-for-annotation) |
 
+## Learning Deep Learning
+
+| Name | URL |
+| ---- | --- |
+| [For Beginner](https://github.com/orico/www.mlcompendium.com/) | https://github.com/orico/www.mlcompendium.com/ |
+
 ## Network Visualization
 
 |Name|URL|
