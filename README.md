@@ -49,7 +49,7 @@ Some repos can help count FLOPs, MACs, etc.
 
 | Name | URL | Note |
 | ---- | --- | ---- |
-| PlotNeuralNet | https://github.com/HarisIqbal88/PlotNeuralNet | Draw Neural Networks with Latex |
+| [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) | https://github.com/HarisIqbal88/PlotNeuralNet | Draw Neural Networks with Latex |
 
 ## Tools for Annotation
 
