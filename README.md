@@ -13,6 +13,7 @@ A collections of tools for deep learning.
 |----|---|
 | [TensorBoard](https://www.tensorflow.org/tensorboard/graphs) | https://www.tensorflow.org/tensorboard/graphs |
 | [GraphViz](http://www.graphviz.org/) | http://www.graphviz.org/ |
+| [quiver](https://github.com/keplr-io/quiver) | https://github.com/keplr-io/quiver |
 | [draw_convnet](https://github.com/gwding/draw_convnet) | https://github.com/gwding/draw_convnet |
 | [NNSVG](http://alexlenail.me/NN-SVG/LeNet.html) | http://alexlenail.me/NN-SVG/LeNet.html |
 | [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) | https://github.com/HarisIqbal88/PlotNeuralNet |
@@ -43,6 +44,12 @@ Some repos can help count FLOPs, MACs, etc.
 | [Whitesides](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.200400767) | https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.200400767 |
 | [Nature Portfolio](https://zhuanlan.zhihu.com/p/158574876) | https://zhuanlan.zhihu.com/p/158574876 |
 | [王益](https://zhuanlan.zhihu.com/p/157243326) | https://zhuanlan.zhihu.com/p/157243326 |
+
+## Drawing in Paper
+
+| Name | URL | Note |
+| ---- | --- | ---- |
+| PlotNeuralNet | https://github.com/HarisIqbal88/PlotNeuralNet | Draw Neural Networks with Latex |
 
 ## Tools for Annotation
 
