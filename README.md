@@ -5,7 +5,7 @@ A collections of tools for deep learning.
 
 ## Table of Contents
 
-| [Home](https://yiqunchen1999.github.io/Tools-for-Deep-Learning/) | [Network Visualization](#network-visualization) | [Network Operations Count](#network-operations-count) | [paper Writing](#paper-writing)| [Tools for Annotation](#tools-for-annotation) |
+| [Home](https://yiqunchen1999.github.io/Tools-for-Deep-Learning/) | [Network Visualization](#network-visualization) | [Network Operations Count](#network-operations-count) | [paper Writing](#paper-writing) | [Drawing in Paper](#drawing-in-Paper) | [Tools for Annotation](#tools-for-annotation) |
 
 ## Network Visualization
 
